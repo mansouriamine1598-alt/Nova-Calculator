@@ -1,0 +1,24 @@
+{
+  "name": "premium-calculator",
+  "version": "1.0.0",
+  "description": "A premium local calculator app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.0",
+    "electron-builder": "^24.13.3",
+    "electron-packager": "^17.1.2"
+  },
+  "build": {
+    "appId": "com.premium.calculator",
+    "productName": "Nova Calculator",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}
