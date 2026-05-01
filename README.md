@@ -13,4 +13,4 @@ Built with JavaScript for desktop environments
 
 Purpose
 Nova was created as a practical project to demonstrate core JavaScript functionality in a desktop context, with an emphasis on usability and clean implementation.
-Want an instant preview right now? If you want to view it without changing any settings, you can use this third-party HTML previewer link: 🔗 Instant Web Demo Preview
+Want an instant preview right now? If you want to view it without changing any settings, you can use this third-party HTML previewer link: 🔗 [Instant Web Demo Preview](https://mansouriamine1598-alt.github.io/Nova-Calculator/)
